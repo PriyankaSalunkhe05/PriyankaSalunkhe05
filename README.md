@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PriyankaSalunkhe05
+- 👋 Hi, I’m PriyankaSalunkhe05
 - 👀 I’m interested in JAVA Programming 
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on JAVA Developer
